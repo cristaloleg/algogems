@@ -22,7 +22,7 @@ struct UnionFind {
         return count;
     }
 
-    int sizeof(int i) {
+    int sizeofset(int i) {
         return R[i];
     }
 
